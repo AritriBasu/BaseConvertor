@@ -1,0 +1,50 @@
+body{
+    background-color:lightseagreen;
+    text-align: center;
+}
+h1{
+    font-family:"Holtwood One SC";
+    color:rgb(10, 5, 82);
+    font-size:50px;
+    margin: 50px;
+}
+p{ 
+    font-family:"Charm";
+    text-align:center;
+    font-size:30px;
+    margin-top:25px;
+    margin-bottom:10px;
+}
+input{
+    font-family:"Charm";
+    text-align:center;
+    background-color: powderblue;
+    margin-top:10px;
+    font-size:30px;
+    border:none;
+    width:50%;
+    height:15%;
+}
+#fahrenheit{
+    margin-top:0;
+}
+#celsius{
+    margin-top:20px;
+    margin-bottom:15px;
+}
+#convert:hover{
+    background-color: rgb(46, 177, 46);
+}
+#clear:hover{
+    background-color: rgb(46, 177, 46);
+}
+button{
+    font-family:"Holtwood One SC";
+    width:28%;
+    height:10%;
+    border:none;
+    background-color:green;
+    margin:0;
+    border-radius:10px;
+    font-size:25px;
+}
